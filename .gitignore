@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+.DS_Store
+GDrive.Rproj
+
 # Session Data files
 .RData
 .RDataTmp
